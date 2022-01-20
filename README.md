@@ -7,14 +7,12 @@
 
 ###### - 🔭 Atualmente estudando pra ser desenvolvedor Full Stack
 
-###### - 🌱 React será a próxima tecnologia a ser assimilada
+###### - 🌱 Atualmente estudando back-end
 
 ###### - 👯 Pretendo nunca parar de desenvolver novas habilidades
 
-###### - 🤔 Sempre procurando ser uma pessoa melhor (Aceito todo tipo de sinceridade, negativa ou positiva)
+###### - 🤔 Sempre procurando ser uma pessoa melhor (Aceito todo tipo de feedback, negativo ou positivo)
 
 ###### - 💬 Adoro ouvir historias. Por isso sempre estou vendo algum filme, série, ouvindo algum podcast ou jogando algum jogo :3
-
-###### - 😄 Não gosto de falar de mim, portanto sou bom ouvinte :)
 
 ###### - 📫 Contato: kleyton_vccamargo@hotmail.com
