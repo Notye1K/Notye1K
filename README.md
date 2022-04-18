@@ -1,18 +1,16 @@
-### Olá 👋
+### Hi 👋
 
 <!--
 **Notye1K/Notye1K** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
 
-#### Um pouco de mim:
+#### About me:
 
-###### - 🔭 Atualmente estudando pra ser desenvolvedor Full Stack
+###### 🔭   Currently studying to be a better Full Stack developer
 
-###### - 🌱 Atualmente estudando back-end
+###### 👯   Always looking for a bug
 
-###### - 👯 Pretendo nunca parar de desenvolver novas habilidades
+###### 🤔   Always accepting feedbacks
 
-###### - 🤔 Sempre procurando ser uma pessoa melhor (Aceito todo tipo de feedback, negativo ou positivo)
+###### 💬   I love to hear stories. If you don't mind, tell me one of yours 😊
 
-###### - 💬 Adoro ouvir historias. Por isso sempre estou vendo algum filme, série, ouvindo algum podcast ou jogando algum jogo :3
-
-###### - 📫 Contato: kleyton_vccamargo@hotmail.com
+###### 📫   e-mail: kleyton_vccamargo@hotmail.com
