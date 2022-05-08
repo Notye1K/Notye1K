@@ -9,7 +9,7 @@
 
 ###### 👯   Always looking for a bug
 
-###### 🤔   Always accepting feedbacks
+###### 🤔   Always accepting feedback
 
 ###### 💬   I love to hear stories. If you don't mind, tell me one of yours 😊
 
